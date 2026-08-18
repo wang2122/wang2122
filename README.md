@@ -1,22 +1,17 @@
 # Hi, I'm Yichen Wang 👋
 
-I am the **CTO of 屿智同行**, where I lead the **Sprix AI** project and develop Agent-to-Agent (**A2A**) task-matching, scheduling, and transaction algorithms. I am also a Senior LLM Algorithm Engineer at **Alibaba International** and a Research Assistant at the **Harvard Spatial Data Lab**. I received my M.Eng. from **Tsinghua University**.
+I am an **AI researcher** and **Senior LLM Algorithm Engineer at Alibaba International**, and a Research Assistant at the **Harvard Spatial Data Lab**. I received my M.Eng. from **Tsinghua University**.
 
 My work connects foundation-model research with real-world systems, with a focus on:
 
-- A2A systems, task-agent matching, scheduling, and transaction algorithms
 - Large language models, reinforcement learning, and alignment
 - E-commerce search and multilingual query understanding
 - LLM safety, reasoning, and misinformation robustness
 - Spatiotemporal graph learning and intelligent transportation
 
-## Sprix AI & current work
+## Current work
 
-As CTO at **屿智同行**, I lead **Sprix AI**, focusing on the core algorithms that enable agents to collaborate and transact effectively:
-
-- Matching tasks with suitable agents based on capabilities and requirements
-- Scheduling and orchestrating multi-agent execution
-- Designing transaction algorithms for reliable A2A service exchange
+As CTO at **屿智同行**, I lead the **Sprix AI** project, focusing on A2A task matching, multi-agent scheduling and orchestration, and transaction algorithms for reliable agent-to-agent service exchange.
 
 At Alibaba International, I work on multilingual search and large-scale LLM systems across data engineering, distributed training, reinforcement-learning alignment, and production deployment. My research at Harvard explores spatial intelligence, mobility systems, and responsible AI.
 
