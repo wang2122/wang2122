@@ -1,6 +1,6 @@
 # Hi, I'm Yichen Wang 👋
 
-I am an **AI researcher** and **Senior LLM Algorithm Engineer at Alibaba International**, and a Research Assistant at the **Harvard Spatial Data Lab**. I received my M.Eng. from **Tsinghua University**.
+I am the **CTO of 屿智同行**, where I lead **Sprix AI**, an A2A initiative for agent matching, orchestration, and transaction mechanisms. I am also an **AI researcher** and **Senior LLM Algorithm Engineer at Alibaba International**, and a Research Assistant at the **Harvard Spatial Data Lab**. I received my M.Eng. from **Tsinghua University**.
 
 My work connects foundation-model research with real-world systems, with a focus on:
 
@@ -11,7 +11,7 @@ My work connects foundation-model research with real-world systems, with a focus
 
 ## Current work
 
-As CTO at **屿智同行**, I lead the **Sprix AI** project, focusing on A2A task matching, multi-agent scheduling and orchestration, and transaction algorithms for reliable agent-to-agent service exchange.
+As CTO at **屿智同行**, I lead the **Sprix AI** project, focusing on A2A task matching, multi-agent scheduling and orchestration, and transaction algorithms for reliable agent-to-agent service exchange. Our open-source algorithmic research output, [Sprix SAGE Router](https://github.com/wang2122/sprix-sage-router), makes state-aware SELF, COLLABORATE, and HANDOFF decisions for A2A agent networks.
 
 At Alibaba International, I work on multilingual search and large-scale LLM systems across data engineering, distributed training, reinforcement-learning alignment, and production deployment. My research at Harvard explores spatial intelligence, mobility systems, and responsible AI.
 
